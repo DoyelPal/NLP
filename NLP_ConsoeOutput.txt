@@ -1,0 +1,1466 @@
+Sun Microsystems, Inc.
+The Apollo spacecraft had three parts: a Command Module with a cabin for the three astronauts, and the only part that landed back on Earth; a Service Module, which supported the Command Module with propulsion, electrical power, oxygen, and water; and a Lunar Module for landing on the Moon.
+Apollo 11 was the spaceflight that landed the first humans on the Moon, Americans Neil Armstrong and Buzz Aldrin, on July 20, 1969.
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<File Name name="C:\Users\Doyel\Desktop\NLP_test\nlp_data\nlp_data\d07.txt">
+    <sentence>Sun Microsystems, Inc.</sentence>
+    <words>Sun</words>
+    <words>Microsystems</words>
+    <words>Inc</words>
+    <entities>Sun Microsystems</entities>
+    <entities>Sun</entities>
+</File Name>
+ was a company that sold computers, computer components, computer software, and information technology services and that created the Java programming language and the Network File System (NFS).
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<File Name name="C:\Users\Doyel\Desktop\NLP_test\nlp_data\nlp_data\d07.txt">
+    <sentence> was a company that sold computers, computer components, computer software, and information technology services and that created the Java programming language and the Network File System (NFS).</sentence>
+    <words>was</words>
+    <words>a</words>
+    <words>company</words>
+    <words>that</words>
+    <words>sold</words>
+    <words>computers</words>
+    <words>computer</words>
+    <words>components</words>
+    <words>computer</words>
+    <words>software</words>
+    <words>and</words>
+    <words>information</words>
+    <words>technology</words>
+    <words>services</words>
+    <words>and</words>
+    <words>that</words>
+    <words>created</words>
+    <words>the</words>
+    <words>Java</words>
+    <words>programming</words>
+    <words>language</words>
+    <words>and</words>
+    <words>the</words>
+    <words>Network</words>
+    <words>File</words>
+    <words>System</words>
+    <words>(NFS)</words>
+</File Name>
+ Sun significantly evolved several key computing technologies, among them Unix, RISC processors, thin client computing, and virtualized computing.
+The Broydenダ"Fletcherダ"Goldfarbダ"Shanno (BFGS) algorithm is an iterative method for solving unconstrained nonlinear optimization problems.
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<File Name name="C:\Users\Doyel\Desktop\NLP_test\nlp_data\nlp_data\d02.txt">
+    <sentence>The BroydenA寃,ｪダoFletcherA寃,ｪダoGoldfarbA寃,ｪダoShanno (BFGS) algorithm is an iterative method for solving unconstrained nonlinear optimization problems.</sentence>
+    <words>The</words>
+    <words>BroydenA寃,ｪダoFletcherA寃,ｪダoGoldfarbA寃,ｪダoShanno</words>
+    <words>(BFGS)</words>
+    <words>algorithm</words>
+    <words>is</words>
+    <words>an</words>
+    <words>iterative</words>
+    <words>method</words>
+    <words>for</words>
+    <words>solving</words>
+    <words>unconstrained</words>
+    <words>nonlinear</words>
+    <words>optimization</words>
+    <words>problems</words>
+    <entities>BroydenA寃,ｪダoFletcherA寃,ｪダoGoldfarbA寃,ｪダoShanno</entities>
+</File Name>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<File Name name="C:\Users\Doyel\Desktop\NLP_test\nlp_data\nlp_data\d07.txt">
+    <sentence> Sun significantly evolved several key computing technologies, among them Unix, RISC processors, thin client computing, and virtualized computing.</sentence>
+    <words>Sun</words>
+    <words>significantly</words>
+    <words>evolved</words>
+    <words>several</words>
+    <words>key</words>
+    <words>computing</words>
+    <words>technologies</words>
+    <words>among</words>
+    <words>them</words>
+    <words>Unix</words>
+    <words>RISC</words>
+    <words>processors</words>
+    <words>thin</words>
+    <words>client</words>
+    <words>computing</words>
+    <words>and</words>
+    <words>virtualized</words>
+    <words>computing</words>
+    <entities>Sun Microsystems</entities>
+    <entities>Sun</entities>
+</File Name>
+ Sun was founded on February 24, 1982.On January 27, 2010, Sun was acquired by Oracle Corporation for US $7.4 billion.
+ The BFGS method approximates Newton's method, a class of hill-climbing optimization techniques that seeks a stationary point of a (preferably twice continuously differentiable) function.
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<File Name name="C:\Users\Doyel\Desktop\NLP_test\nlp_data\nlp_data\d07.txt">
+    <sentence> Sun was founded on February 24, 1982.On January 27, 2010, Sun was acquired by Oracle Corporation for US $7.4 billion.</sentence>
+    <words>Sun</words>
+    <words>was</words>
+    <words>founded</words>
+    <words>on</words>
+    <words>February</words>
+    <words>24</words>
+    <words>1982.O</words>
+    <words>January</words>
+    <words>27</words>
+    <words>2010</words>
+    <words>Sun</words>
+    <words>was</words>
+    <words>acquired</words>
+    <words>by</words>
+    <words>Oracle</words>
+    <words>Corporation</words>
+    <words>for</words>
+    <words>US</words>
+    <words>$7.</words>
+    <words>billion</words>
+    <entities>Sun Microsystems</entities>
+    <entities>Sun</entities>
+    <entities>Oracle Corporation</entities>
+</File Name>
+ The following month, Sun was merged with Oracle USA, Inc.
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<File Name name="C:\Users\Doyel\Desktop\NLP_test\nlp_data\nlp_data\d07.txt">
+    <sentence> The following month, Sun was merged with Oracle USA, Inc.</sentence>
+    <words>The</words>
+    <words>following</words>
+    <words>month</words>
+    <words>Sun</words>
+    <words>was</words>
+    <words>merged</words>
+    <words>with</words>
+    <words>Oracle</words>
+    <words>USA</words>
+    <words>Inc</words>
+    <entities>Sun Microsystems</entities>
+    <entities>Sun</entities>
+    <entities>Oracle Corporation</entities>
+</File Name>
+ to become Oracle America, Inc.
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<File Name name="C:\Users\Doyel\Desktop\NLP_test\nlp_data\nlp_data\d07.txt">
+    <sentence> to become Oracle America, Inc.</sentence>
+    <words>to</words>
+    <words>become</words>
+    <words>Oracle</words>
+    <words>America</words>
+    <words>Inc</words>
+    <entities>Oracle Corporation</entities>
+</File Name>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<File Name name="C:\Users\Doyel\Desktop\NLP_test\nlp_data\nlp_data\d08.txt">
+    <sentence>Apollo 11 was the spaceflight that landed the first humans on the Moon, Americans Neil Armstrong and Buzz Aldrin, on July 20, 1969.</sentence>
+    <words>Apollo</words>
+    <words>11</words>
+    <words>was</words>
+    <words>the</words>
+    <words>spaceflight</words>
+    <words>that</words>
+    <words>landed</words>
+    <words>the</words>
+    <words>first</words>
+    <words>humans</words>
+    <words>on</words>
+    <words>the</words>
+    <words>Moon</words>
+    <words>Americans</words>
+    <words>Neil</words>
+    <words>Armstrong</words>
+    <words>and</words>
+    <words>Buzz</words>
+    <words>Aldrin</words>
+    <words>on</words>
+    <words>July</words>
+    <words>20</words>
+    <words>1969</words>
+    <entities>Apollo 11</entities>
+    <entities>Moon</entities>
+    <entities>Neil Armstrong</entities>
+    <entities>Buzz Aldrin</entities>
+</File Name>
+ Armstrong became the first to step onto the lunar surface six hours later.
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<File Name name="C:\Users\Doyel\Desktop\NLP_test\nlp_data\nlp_data\d09.txt">
+    <sentence>The Apollo spacecraft had three parts: a Command Module with a cabin for the three astronauts, and the only part that landed back on Earth; a Service Module, which supported the Command Module with propulsion, electrical power, oxygen, and water; and a Lunar Module for landing on the Moon.</sentence>
+    <words>The</words>
+    <words>Apollo</words>
+    <words>spacecraft</words>
+    <words>had</words>
+    <words>three</words>
+    <words>parts:</words>
+    <words>a</words>
+    <words>Command</words>
+    <words>Module</words>
+    <words>with</words>
+    <words>a</words>
+    <words>cabin</words>
+    <words>for</words>
+    <words>the</words>
+    <words>three</words>
+    <words>astronauts</words>
+    <words>and</words>
+    <words>the</words>
+    <words>only</words>
+    <words>part</words>
+    <words>that</words>
+    <words>landed</words>
+    <words>back</words>
+    <words>on</words>
+    <words>Earth;</words>
+    <words>a</words>
+    <words>Service</words>
+    <words>Module</words>
+    <words>which</words>
+    <words>supported</words>
+    <words>the</words>
+    <words>Command</words>
+    <words>Module</words>
+    <words>with</words>
+    <words>propulsion</words>
+    <words>electrical</words>
+    <words>power</words>
+    <words>oxygen</words>
+    <words>and</words>
+    <words>water;</words>
+    <words>and</words>
+    <words>a</words>
+    <words>Lunar</words>
+    <words>Module</words>
+    <words>for</words>
+    <words>landing</words>
+    <words>on</words>
+    <words>the</words>
+    <words>Moon</words>
+    <entities>Apollo 11</entities>
+    <entities>Moon</entities>
+</File Name>
+ After being sent toward the Moon by the Saturn V's upper stage, the astronauts separated the spacecraft from it and traveled for three days until they entered into lunar orbit.
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<File Name name="C:\Users\Doyel\Desktop\NLP_test\nlp_data\nlp_data\d08.txt">
+    <sentence> Armstrong became the first to step onto the lunar surface six hours later.</sentence>
+    <words>Armstrong</words>
+    <words>became</words>
+    <words>the</words>
+    <words>first</words>
+    <words>to</words>
+    <words>step</words>
+    <words>onto</words>
+    <words>the</words>
+    <words>lunar</words>
+    <words>surface</words>
+    <words>six</words>
+    <words>hours</words>
+    <words>later</words>
+</File Name>
+ Armstrong spent about two and a half hours outside the spacecraft, Aldrin slightly less, and together they collected 47.5 pounds (21.5 kg) of lunar material for return to Earth.
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<File Name name="C:\Users\Doyel\Desktop\NLP_test\nlp_data\nlp_data\d08.txt">
+    <sentence> Armstrong spent about two and a half hours outside the spacecraft, Aldrin slightly less, and together they collected 47.5 pounds (21.5 kg) of lunar material for return to Earth.</sentence>
+    <words>Armstrong</words>
+    <words>spent</words>
+    <words>about</words>
+    <words>two</words>
+    <words>and</words>
+    <words>a</words>
+    <words>half</words>
+    <words>hours</words>
+    <words>outside</words>
+    <words>the</words>
+    <words>spacecraft</words>
+    <words>Aldrin</words>
+    <words>slightly</words>
+    <words>less</words>
+    <words>and</words>
+    <words>together</words>
+    <words>they</words>
+    <words>collected</words>
+    <words>47.</words>
+    <words>pounds</words>
+    <words>(21.</words>
+    <words>kg)</words>
+    <words>of</words>
+    <words>lunar</words>
+    <words>material</words>
+    <words>for</words>
+    <words>return</words>
+    <words>to</words>
+    <words>Earth</words>
+    <entities>Earth</entities>
+</File Name>
+ The third member of the mission, Michael Collins, piloted the command spacecraft alone in lunar orbit until Armstrong and Aldrin returned to it just under a day later for the trip back to Earth.
+James Clerk Maxwell was a Scottish mathematical physicist.
+The Antikythera mechanism is an ancient analog computer designed to predict astronomical positions and eclipses for calendrical and astrological purposes, as well as the cycles of Olympic Games.Found housed in a 340 A- 180 A- 90 mm wooden box, the device is a complex clockwork mechanism composed of at least 30 meshing bronze gears.
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<File Name name="C:\Users\Doyel\Desktop\NLP_test\nlp_data\nlp_data\d10.txt">
+    <sentence>James Clerk Maxwell was a Scottish mathematical physicist.</sentence>
+    <words>James</words>
+    <words>Clerk</words>
+    <words>Maxwell</words>
+    <words>was</words>
+    <words>a</words>
+    <words>Scottish</words>
+    <words>mathematical</words>
+    <words>physicist</words>
+    <entities>James Clerk Maxwell</entities>
+</File Name>
+ His most notable achievement was to formulate the classical theory of electromagnetic radiation, bringing together for the first time electricity, magnetism, and light as manifestations of the same phenomenon.
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<File Name name="C:\Users\Doyel\Desktop\NLP_test\nlp_data\nlp_data\d10.txt">
+    <sentence> His most notable achievement was to formulate the classical theory of electromagnetic radiation, bringing together for the first time electricity, magnetism, and light as manifestations of the same phenomenon.</sentence>
+    <words>His</words>
+    <words>most</words>
+    <words>notable</words>
+    <words>achievement</words>
+    <words>was</words>
+    <words>to</words>
+    <words>formulate</words>
+    <words>the</words>
+    <words>classical</words>
+    <words>theory</words>
+    <words>of</words>
+    <words>electromagnetic</words>
+    <words>radiation</words>
+    <words>bringing</words>
+    <words>together</words>
+    <words>for</words>
+    <words>the</words>
+    <words>first</words>
+    <words>time</words>
+    <words>electricity</words>
+    <words>magnetism</words>
+    <words>and</words>
+    <words>light</words>
+    <words>as</words>
+    <words>manifestations</words>
+    <words>of</words>
+    <words>the</words>
+    <words>same</words>
+    <words>phenomenon</words>
+</File Name>
+ Maxwell's equations for electromagnetism have been called the "second great unification in physics" after the first one realised by        Isaac Newton... Maxwell demonstrated that electric and magnetic fields travel through space as waves moving at the speed of light.
+Montgomery Castle is a stone masonry castle looking over the town of Montgomery in Powys, Wales.
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<File Name name="C:\Users\Doyel\Desktop\NLP_test\nlp_data\nlp_data\d04.txt">
+    <sentence>The Antikythera mechanism is an ancient analog computer designed to predict astronomical positions and eclipses for calendrical and astrological purposes, as well as the cycles of Olympic Games.Found housed in a 340 A气_" 180 A气_" 90 mm wooden box, the device is a complex clockwork mechanism composed of at least 30 meshing bronze gears.</sentence>
+    <words>The</words>
+    <words>Antikythera</words>
+    <words>mechanism</words>
+    <words>is</words>
+    <words>an</words>
+    <words>ancient</words>
+    <words>analog</words>
+    <words>computer</words>
+    <words>designed</words>
+    <words>to</words>
+    <words>predict</words>
+    <words>astronomical</words>
+    <words>positions</words>
+    <words>and</words>
+    <words>eclipses</words>
+    <words>for</words>
+    <words>calendrical</words>
+    <words>and</words>
+    <words>astrological</words>
+    <words>purposes</words>
+    <words>as</words>
+    <words>well</words>
+    <words>as</words>
+    <words>the</words>
+    <words>cycles</words>
+    <words>of</words>
+    <words>Olympic</words>
+    <words>Games.Foun</words>
+    <words>housed</words>
+    <words>in</words>
+    <words>a</words>
+    <words>340</words>
+    <words>A气_"</words>
+    <words>180</words>
+    <words>A气_"</words>
+    <words>90</words>
+    <words>mm</words>
+    <words>wooden</words>
+    <words>box</words>
+    <words>the</words>
+    <words>device</words>
+    <words>is</words>
+    <words>a</words>
+    <words>complex</words>
+    <words>clockwork</words>
+    <words>mechanism</words>
+    <words>composed</words>
+    <words>of</words>
+    <words>at</words>
+    <words>least</words>
+    <words>30</words>
+    <words>meshing</words>
+    <words>bronze</words>
+    <words>gears</words>
+    <entities>Antikythera</entities>
+    <entities>Olympic Games</entities>
+</File Name>
+ Its remains were found as 82 separate fragments, of which only seven contain any gears or significant inscriptions.
+Horseshoe crabs are marine arthropods that live primarily in and around shallow ocean waters on soft sandy or muddy bottoms.
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<File Name name="C:\Users\Doyel\Desktop\NLP_test\nlp_data\nlp_data\d03.txt">
+    <sentence>Montgomery Castle is a stone masonry castle looking over the town of Montgomery in Powys, Wales.</sentence>
+    <words>Montgomery</words>
+    <words>Castle</words>
+    <words>is</words>
+    <words>a</words>
+    <words>stone</words>
+    <words>masonry</words>
+    <words>castle</words>
+    <words>looking</words>
+    <words>over</words>
+    <words>the</words>
+    <words>town</words>
+    <words>of</words>
+    <words>Montgomery</words>
+    <words>in</words>
+    <words>Powys</words>
+    <words>Wales</words>
+    <entities>Montgomery Castle</entities>
+    <entities>Powys</entities>
+    <entities>Wales</entities>
+</File Name>
+ It is one of many Norman castles on the border between Wales and England.
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<File Name name="C:\Users\Doyel\Desktop\NLP_test\nlp_data\nlp_data\d05.txt">
+    <sentence>Horseshoe crabs are marine arthropods that live primarily in and around shallow ocean waters on soft sandy or muddy bottoms.</sentence>
+    <words>Horseshoe</words>
+    <words>crabs</words>
+    <words>are</words>
+    <words>marine</words>
+    <words>arthropods</words>
+    <words>that</words>
+    <words>live</words>
+    <words>primarily</words>
+    <words>in</words>
+    <words>and</words>
+    <words>around</words>
+    <words>shallow</words>
+    <words>ocean</words>
+    <words>waters</words>
+    <words>on</words>
+    <words>soft</words>
+    <words>sandy</words>
+    <words>or</words>
+    <words>muddy</words>
+    <words>bottoms</words>
+</File Name>
+ They occasionally come onto shore to mate.
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<File Name name="C:\Users\Doyel\Desktop\NLP_test\nlp_data\nlp_data\d03.txt">
+    <sentence> It is one of many Norman castles on the border between Wales and England.</sentence>
+    <words>It</words>
+    <words>is</words>
+    <words>one</words>
+    <words>of</words>
+    <words>many</words>
+    <words>Norman</words>
+    <words>castles</words>
+    <words>on</words>
+    <words>the</words>
+    <words>border</words>
+    <words>between</words>
+    <words>Wales</words>
+    <words>and</words>
+    <words>England</words>
+    <entities>Wales</entities>
+    <entities>England</entities>
+</File Name>
+ The original castle was built at the order of Roger de Montgomery, earl of Shrewsbury sometime between 1071 and 1074.
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<File Name name="C:\Users\Doyel\Desktop\NLP_test\nlp_data\nlp_data\d05.txt">
+    <sentence> They occasionally come onto shore to mate.</sentence>
+    <words>They</words>
+    <words>occasionally</words>
+    <words>come</words>
+    <words>onto</words>
+    <words>shore</words>
+    <words>to</words>
+    <words>mate</words>
+</File Name>
+ They are commonly used as bait and in fertilizer.
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<File Name name="C:\Users\Doyel\Desktop\NLP_test\nlp_data\nlp_data\d05.txt">
+    <sentence> They are commonly used as bait and in fertilizer.</sentence>
+    <words>They</words>
+    <words>are</words>
+    <words>commonly</words>
+    <words>used</words>
+    <words>as</words>
+    <words>bait</words>
+    <words>and</words>
+    <words>in</words>
+    <words>fertilizer</words>
+</File Name>
+ In recent years, a decline in the population has occurred as a consequence of coastal habitat destruction in Japan and overharvesting along the east coast of North America.
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<File Name name="C:\Users\Doyel\Desktop\NLP_test\nlp_data\nlp_data\d03.txt">
+    <sentence> The original castle was built at the order of Roger de Montgomery, earl of Shrewsbury sometime between 1071 and 1074.</sentence>
+    <words>The</words>
+    <words>original</words>
+    <words>castle</words>
+    <words>was</words>
+    <words>built</words>
+    <words>at</words>
+    <words>the</words>
+    <words>order</words>
+    <words>of</words>
+    <words>Roger</words>
+    <words>de</words>
+    <words>Montgomery</words>
+    <words>earl</words>
+    <words>of</words>
+    <words>Shrewsbury</words>
+    <words>sometime</words>
+    <words>between</words>
+    <words>1071</words>
+    <words>and</words>
+    <words>1074</words>
+    <entities>Roger de Montgomery</entities>
+    <entities>Montgomery Castle</entities>
+    <entities>Shrewsbury</entities>
+</File Name>
+ On the rebellion of his son Robert of Belleme in 1102, the castle was given to Baldwin de Boulers.
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<File Name name="C:\Users\Doyel\Desktop\NLP_test\nlp_data\nlp_data\d05.txt">
+    <sentence> In recent years, a decline in the population has occurred as a consequence of coastal habitat destruction in Japan and overharvesting along the east coast of North America.</sentence>
+    <words>In</words>
+    <words>recent</words>
+    <words>years</words>
+    <words>a</words>
+    <words>decline</words>
+    <words>in</words>
+    <words>the</words>
+    <words>population</words>
+    <words>has</words>
+    <words>occurred</words>
+    <words>as</words>
+    <words>a</words>
+    <words>consequence</words>
+    <words>of</words>
+    <words>coastal</words>
+    <words>habitat</words>
+    <words>destruction</words>
+    <words>in</words>
+    <words>Japan</words>
+    <words>and</words>
+    <words>overharvesting</words>
+    <words>along</words>
+    <words>the</words>
+    <words>east</words>
+    <words>coast</words>
+    <words>of</words>
+    <words>North</words>
+    <words>America</words>
+    <entities>Japan</entities>
+    <entities>North America</entities>
+</File Name>
+ Because of their origin 450 million years ago (Mya), horseshoe crabs are considered living fossils.
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<File Name name="C:\Users\Doyel\Desktop\NLP_test\nlp_data\nlp_data\d03.txt">
+    <sentence> On the rebellion of his son Robert of Belleme in 1102, the castle was given to Baldwin de Boulers.</sentence>
+    <words>On</words>
+    <words>the</words>
+    <words>rebellion</words>
+    <words>of</words>
+    <words>his</words>
+    <words>son</words>
+    <words>Robert</words>
+    <words>of</words>
+    <words>Belleme</words>
+    <words>in</words>
+    <words>1102</words>
+    <words>the</words>
+    <words>castle</words>
+    <words>was</words>
+    <words>given</words>
+    <words>to</words>
+    <words>Baldwin</words>
+    <words>de</words>
+    <words>Boulers</words>
+    <entities>Robert of Belleme</entities>
+</File Name>
+ In 1267 Montgomery was the meeting place for treaty negotiations, where King Henry III granted Llywelyn ap Gruffudd the title of Prince of Wales.
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<File Name name="C:\Users\Doyel\Desktop\NLP_test\nlp_data\nlp_data\d02.txt">
+    <sentence> The BFGS method approximates Newton's method, a class of hill-climbing optimization techniques that seeks a stationary point of a (preferably twice continuously differentiable) function.</sentence>
+    <words>The</words>
+    <words>BFGS</words>
+    <words>method</words>
+    <words>approximates</words>
+    <words>Newton's</words>
+    <words>method</words>
+    <words>a</words>
+    <words>class</words>
+    <words>of</words>
+    <words>hill-climbing</words>
+    <words>optimization</words>
+    <words>techniques</words>
+    <words>that</words>
+    <words>seeks</words>
+    <words>a</words>
+    <words>stationary</words>
+    <words>point</words>
+    <words>of</words>
+    <words>a</words>
+    <words>(preferably</words>
+    <words>twice</words>
+    <words>continuously</words>
+    <words>differentiable)</words>
+    <words>function</words>
+    <entities>BFGS</entities>
+</File Name>
+ For such problems, a necessary condition for optimality is that the gradient be zero.
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<File Name name="C:\Users\Doyel\Desktop\NLP_test\nlp_data\nlp_data\d09.txt">
+    <sentence> After being sent toward the Moon by the Saturn V's upper stage, the astronauts separated the spacecraft from it and traveled for three days until they entered into lunar orbit.</sentence>
+    <words>After</words>
+    <words>being</words>
+    <words>sent</words>
+    <words>toward</words>
+    <words>the</words>
+    <words>Moon</words>
+    <words>by</words>
+    <words>the</words>
+    <words>Saturn</words>
+    <words>V's</words>
+    <words>upper</words>
+    <words>stage</words>
+    <words>the</words>
+    <words>astronauts</words>
+    <words>separated</words>
+    <words>the</words>
+    <words>spacecraft</words>
+    <words>from</words>
+    <words>it</words>
+    <words>and</words>
+    <words>traveled</words>
+    <words>for</words>
+    <words>three</words>
+    <words>days</words>
+    <words>until</words>
+    <words>they</words>
+    <words>entered</words>
+    <words>into</words>
+    <words>lunar</words>
+    <words>orbit</words>
+    <entities>Moon</entities>
+</File Name>
+ Armstrong and Aldrin then moved into the Lunar Module and landed in the Sea of Tranquility.
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<File Name name="C:\Users\Doyel\Desktop\NLP_test\nlp_data\nlp_data\d08.txt">
+    <sentence> The third member of the mission, Michael Collins, piloted the command spacecraft alone in lunar orbit until Armstrong and Aldrin returned to it just under a day later for the trip back to Earth.</sentence>
+    <words>The</words>
+    <words>third</words>
+    <words>member</words>
+    <words>of</words>
+    <words>the</words>
+    <words>mission</words>
+    <words>Michael</words>
+    <words>Collins</words>
+    <words>piloted</words>
+    <words>the</words>
+    <words>command</words>
+    <words>spacecraft</words>
+    <words>alone</words>
+    <words>in</words>
+    <words>lunar</words>
+    <words>orbit</words>
+    <words>until</words>
+    <words>Armstrong</words>
+    <words>and</words>
+    <words>Aldrin</words>
+    <words>returned</words>
+    <words>to</words>
+    <words>it</words>
+    <words>just</words>
+    <words>under</words>
+    <words>a</words>
+    <words>day</words>
+    <words>later</words>
+    <words>for</words>
+    <words>the</words>
+    <words>trip</words>
+    <words>back</words>
+    <words>to</words>
+    <words>Earth</words>
+    <entities>Michael Collins</entities>
+    <entities>Earth</entities>
+</File Name>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<File Name name="C:\Users\Doyel\Desktop\NLP_test\nlp_data\nlp_data\d02.txt">
+    <sentence> For such problems, a necessary condition for optimality is that the gradient be zero.</sentence>
+    <words>For</words>
+    <words>such</words>
+    <words>problems</words>
+    <words>a</words>
+    <words>necessary</words>
+    <words>condition</words>
+    <words>for</words>
+    <words>optimality</words>
+    <words>is</words>
+    <words>that</words>
+    <words>the</words>
+    <words>gradient</words>
+    <words>be</words>
+    <words>zero</words>
+</File Name>
+ Newton's method and the BFGS methods are not guaranteed to converge unless the function has a quadratic Taylor expansion near an optimum.
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<File Name name="C:\Users\Doyel\Desktop\NLP_test\nlp_data\nlp_data\d09.txt">
+    <sentence> Armstrong and Aldrin then moved into the Lunar Module and landed in the Sea of Tranquility.</sentence>
+    <words>Armstrong</words>
+    <words>and</words>
+    <words>Aldrin</words>
+    <words>then</words>
+    <words>moved</words>
+    <words>into</words>
+    <words>the</words>
+    <words>Lunar</words>
+    <words>Module</words>
+    <words>and</words>
+    <words>landed</words>
+    <words>in</words>
+    <words>the</words>
+    <words>Sea</words>
+    <words>of</words>
+    <words>Tranquility</words>
+    <entities>Sea of Tranquility</entities>
+</File Name>
+ They stayed a total of about 21.5 hours on the lunar surface.
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<File Name name="C:\Users\Doyel\Desktop\NLP_test\nlp_data\nlp_data\d09.txt">
+    <sentence> They stayed a total of about 21.5 hours on the lunar surface.</sentence>
+    <words>They</words>
+    <words>stayed</words>
+    <words>a</words>
+    <words>total</words>
+    <words>of</words>
+    <words>about</words>
+    <words>21.</words>
+    <words>hours</words>
+    <words>on</words>
+    <words>the</words>
+    <words>lunar</words>
+    <words>surface</words>
+</File Name>
+ After lifting off in the upper part of the Lunar Module and rejoining Collins in the Command Module, they returned to Earth and landed in the Pacific Ocean on July 24.
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<File Name name="C:\Users\Doyel\Desktop\NLP_test\nlp_data\nlp_data\d05.txt">
+    <sentence> Because of their origin 450 million years ago (Mya), horseshoe crabs are considered living fossils.</sentence>
+    <words>Because</words>
+    <words>of</words>
+    <words>their</words>
+    <words>origin</words>
+    <words>450</words>
+    <words>million</words>
+    <words>years</words>
+    <words>ago</words>
+    <words>(Mya)</words>
+    <words>horseshoe</words>
+    <words>crabs</words>
+    <words>are</words>
+    <words>considered</words>
+    <words>living</words>
+    <words>fossils</words>
+</File Name>
+ Horseshoe crabs resemble crustaceans, but belong to a separate subphylum, and are closely related to arachnids.
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<File Name name="C:\Users\Doyel\Desktop\NLP_test\nlp_data\nlp_data\d09.txt">
+    <sentence> After lifting off in the upper part of the Lunar Module and rejoining Collins in the Command Module, they returned to Earth and landed in the Pacific Ocean on July 24.</sentence>
+    <words>After</words>
+    <words>lifting</words>
+    <words>off</words>
+    <words>in</words>
+    <words>the</words>
+    <words>upper</words>
+    <words>part</words>
+    <words>of</words>
+    <words>the</words>
+    <words>Lunar</words>
+    <words>Module</words>
+    <words>and</words>
+    <words>rejoining</words>
+    <words>Collins</words>
+    <words>in</words>
+    <words>the</words>
+    <words>Command</words>
+    <words>Module</words>
+    <words>they</words>
+    <words>returned</words>
+    <words>to</words>
+    <words>Earth</words>
+    <words>and</words>
+    <words>landed</words>
+    <words>in</words>
+    <words>the</words>
+    <words>Pacific</words>
+    <words>Ocean</words>
+    <words>on</words>
+    <words>July</words>
+    <words>24</words>
+    <entities>Earth</entities>
+    <entities>Pacific Ocean</entities>
+</File Name>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<File Name name="C:\Users\Doyel\Desktop\NLP_test\nlp_data\nlp_data\d05.txt">
+    <sentence> Horseshoe crabs resemble crustaceans, but belong to a separate subphylum, and are closely related to arachnids.</sentence>
+    <words>Horseshoe</words>
+    <words>crabs</words>
+    <words>resemble</words>
+    <words>crustaceans</words>
+    <words>but</words>
+    <words>belong</words>
+    <words>to</words>
+    <words>a</words>
+    <words>separate</words>
+    <words>subphylum</words>
+    <words>and</words>
+    <words>are</words>
+    <words>closely</words>
+    <words>related</words>
+    <words>to</words>
+    <words>arachnids</words>
+</File Name>
+ The earliest horseshoe crab fossils are found in strata from the late Ordovician period, roughly 450 Mya.
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<File Name name="C:\Users\Doyel\Desktop\NLP_test\nlp_data\nlp_data\d05.txt">
+    <sentence> The earliest horseshoe crab fossils are found in strata from the late Ordovician period, roughly 450 Mya.</sentence>
+    <words>The</words>
+    <words>earliest</words>
+    <words>horseshoe</words>
+    <words>crab</words>
+    <words>fossils</words>
+    <words>are</words>
+    <words>found</words>
+    <words>in</words>
+    <words>strata</words>
+    <words>from</words>
+    <words>the</words>
+    <words>late</words>
+    <words>Ordovician</words>
+    <words>period</words>
+    <words>roughly</words>
+    <words>450</words>
+    <words>Mya</words>
+</File Name>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<File Name name="C:\Users\Doyel\Desktop\NLP_test\nlp_data\nlp_data\d04.txt">
+    <sentence> Its remains were found as 82 separate fragments, of which only seven contain any gears or significant inscriptions.</sentence>
+    <words>Its</words>
+    <words>remains</words>
+    <words>were</words>
+    <words>found</words>
+    <words>as</words>
+    <words>82</words>
+    <words>separate</words>
+    <words>fragments</words>
+    <words>of</words>
+    <words>which</words>
+    <words>only</words>
+    <words>seven</words>
+    <words>contain</words>
+    <words>any</words>
+    <words>gears</words>
+    <words>or</words>
+    <words>significant</words>
+    <words>inscriptions</words>
+</File Name>
+ The largest gear is approximately 140 mm in diameter.The artifact was recovered in 1901 from the Antikythera shipwreck off the Greek island of Antikythera.
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<File Name name="C:\Users\Doyel\Desktop\NLP_test\nlp_data\nlp_data\d02.txt">
+    <sentence> Newton's method and the BFGS methods are not guaranteed to converge unless the function has a quadratic Taylor expansion near an optimum.</sentence>
+    <words>Newton's</words>
+    <words>method</words>
+    <words>and</words>
+    <words>the</words>
+    <words>BFGS</words>
+    <words>methods</words>
+    <words>are</words>
+    <words>not</words>
+    <words>guaranteed</words>
+    <words>to</words>
+    <words>converge</words>
+    <words>unless</words>
+    <words>the</words>
+    <words>function</words>
+    <words>has</words>
+    <words>a</words>
+    <words>quadratic</words>
+    <words>Taylor</words>
+    <words>expansion</words>
+    <words>near</words>
+    <words>an</words>
+    <words>optimum</words>
+    <entities>BFGS</entities>
+</File Name>
+ These methods use both the first and second derivatives of the function.
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<File Name name="C:\Users\Doyel\Desktop\NLP_test\nlp_data\nlp_data\d03.txt">
+    <sentence> In 1267 Montgomery was the meeting place for treaty negotiations, where King Henry III granted Llywelyn ap Gruffudd the title of Prince of Wales.</sentence>
+    <words>In</words>
+    <words>1267</words>
+    <words>Montgomery</words>
+    <words>was</words>
+    <words>the</words>
+    <words>meeting</words>
+    <words>place</words>
+    <words>for</words>
+    <words>treaty</words>
+    <words>negotiations</words>
+    <words>where</words>
+    <words>King</words>
+    <words>Henry</words>
+    <words>III</words>
+    <words>granted</words>
+    <words>Llywelyn</words>
+    <words>ap</words>
+    <words>Gruffudd</words>
+    <words>the</words>
+    <words>title</words>
+    <words>of</words>
+    <words>Prince</words>
+    <words>of</words>
+    <words>Wales</words>
+    <entities>Montgomery Castle</entities>
+    <entities>King Henry III</entities>
+    <entities>Llywelyn ap Gruffudd</entities>
+    <entities>Prince of Wales</entities>
+    <entities>Wales</entities>
+</File Name>
+ After 1295 and the final Welsh War of the thirteenth century the castle became more of a military backwater and prison than a front line fortress.
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<File Name name="C:\Users\Doyel\Desktop\NLP_test\nlp_data\nlp_data\d03.txt">
+    <sentence> After 1295 and the final Welsh War of the thirteenth century the castle became more of a military backwater and prison than a front line fortress.</sentence>
+    <words>After</words>
+    <words>1295</words>
+    <words>and</words>
+    <words>the</words>
+    <words>final</words>
+    <words>Welsh</words>
+    <words>War</words>
+    <words>of</words>
+    <words>the</words>
+    <words>thirteenth</words>
+    <words>century</words>
+    <words>the</words>
+    <words>castle</words>
+    <words>became</words>
+    <words>more</words>
+    <words>of</words>
+    <words>a</words>
+    <words>military</words>
+    <words>backwater</words>
+    <words>and</words>
+    <words>prison</words>
+    <words>than</words>
+    <words>a</words>
+    <words>front</words>
+    <words>line</words>
+    <words>fortress</words>
+</File Name>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<File Name name="C:\Users\Doyel\Desktop\NLP_test\nlp_data\nlp_data\d04.txt">
+    <sentence> The largest gear is approximately 140 mm in diameter.The artifact was recovered in 1901 from the Antikythera shipwreck off the Greek island of Antikythera.</sentence>
+    <words>The</words>
+    <words>largest</words>
+    <words>gear</words>
+    <words>is</words>
+    <words>approximately</words>
+    <words>140</words>
+    <words>mm</words>
+    <words>in</words>
+    <words>diameter.Th</words>
+    <words>artifact</words>
+    <words>was</words>
+    <words>recovered</words>
+    <words>in</words>
+    <words>1901</words>
+    <words>from</words>
+    <words>the</words>
+    <words>Antikythera</words>
+    <words>shipwreck</words>
+    <words>off</words>
+    <words>the</words>
+    <words>Greek</words>
+    <words>island</words>
+    <words>of</words>
+    <words>Antikythera</words>
+    <entities>Antikythera</entities>
+</File Name>
+ Believed to have been designed and constructed by Greek scientists, the instrument has been dated either between 150 to 100 BC or, according to a more recent view, at 205 BC.
+Euclid's Elements has been referred to as the most successful and influential textbook ever written.
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<File Name name="C:\Users\Doyel\Desktop\NLP_test\nlp_data\nlp_data\d01.txt">
+    <sentence>Euclid's Elements has been referred to as the most successful and influential textbook ever written.</sentence>
+    <words>Euclid's</words>
+    <words>Elements</words>
+    <words>has</words>
+    <words>been</words>
+    <words>referred</words>
+    <words>to</words>
+    <words>as</words>
+    <words>the</words>
+    <words>most</words>
+    <words>successful</words>
+    <words>and</words>
+    <words>influential</words>
+    <words>textbook</words>
+    <words>ever</words>
+    <words>written</words>
+    <entities>Elements</entities>
+</File Name>
+ First set in type in Venice in 1482, it is one of the very earliest mathematical works to be printed after the invention of the printing press and was estimated by Carl Benjamin Boyer to be second only to the Bible in the number of editions published, with the number reaching well over one thousand.
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<File Name name="C:\Users\Doyel\Desktop\NLP_test\nlp_data\nlp_data\d04.txt">
+    <sentence> Believed to have been designed and constructed by Greek scientists, the instrument has been dated either between 150 to 100 BC or, according to a more recent view, at 205 BC.</sentence>
+    <words>Believed</words>
+    <words>to</words>
+    <words>have</words>
+    <words>been</words>
+    <words>designed</words>
+    <words>and</words>
+    <words>constructed</words>
+    <words>by</words>
+    <words>Greek</words>
+    <words>scientists</words>
+    <words>the</words>
+    <words>instrument</words>
+    <words>has</words>
+    <words>been</words>
+    <words>dated</words>
+    <words>either</words>
+    <words>between</words>
+    <words>150</words>
+    <words>to</words>
+    <words>100</words>
+    <words>BC</words>
+    <words>or</words>
+    <words>according</words>
+    <words>to</words>
+    <words>a</words>
+    <words>more</words>
+    <words>recent</words>
+    <words>view</words>
+    <words>at</words>
+    <words>205</words>
+    <words>BC</words>
+</File Name>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<File Name name="C:\Users\Doyel\Desktop\NLP_test\nlp_data\nlp_data\d02.txt">
+    <sentence> These methods use both the first and second derivatives of the function.</sentence>
+    <words>These</words>
+    <words>methods</words>
+    <words>use</words>
+    <words>both</words>
+    <words>the</words>
+    <words>first</words>
+    <words>and</words>
+    <words>second</words>
+    <words>derivatives</words>
+    <words>of</words>
+    <words>the</words>
+    <words>function</words>
+</File Name>
+ However, BFGS has proven to have good performance even for non-smooth optimizations.
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<File Name name="C:\Users\Doyel\Desktop\NLP_test\nlp_data\nlp_data\d02.txt">
+    <sentence> However, BFGS has proven to have good performance even for non-smooth optimizations.</sentence>
+    <words>However</words>
+    <words>BFGS</words>
+    <words>has</words>
+    <words>proven</words>
+    <words>to</words>
+    <words>have</words>
+    <words>good</words>
+    <words>performance</words>
+    <words>even</words>
+    <words>for</words>
+    <words>non-smooth</words>
+    <words>optimizations</words>
+    <entities>BFGS</entities>
+</File Name>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<File Name name="C:\Users\Doyel\Desktop\NLP_test\nlp_data\nlp_data\d10.txt">
+    <sentence> Maxwell's equations for electromagnetism have been called the "second great unification in physics" after the first one realised by        Isaac Newton... Maxwell demonstrated that electric and magnetic fields travel through space as waves moving at the speed of light.</sentence>
+    <words>Maxwell's</words>
+    <words>equations</words>
+    <words>for</words>
+    <words>electromagnetism</words>
+    <words>have</words>
+    <words>been</words>
+    <words>called</words>
+    <words>the</words>
+    <words>"second</words>
+    <words>great</words>
+    <words>unification</words>
+    <words>in</words>
+    <words>physics"</words>
+    <words>after</words>
+    <words>the</words>
+    <words>first</words>
+    <words>one</words>
+    <words>realised</words>
+    <words>by</words>
+    <words>Isaac</words>
+    <words>Newton..</words>
+    <words>Maxwell</words>
+    <words>demonstratedA differentiable manifold is a type of manifold that is locally similar enough to a linear space to allow one to do calculus.
+</words>
+    <words>that</words>
+    <words>electric</words>
+    <words>and</words>
+    <words>magnetic</words>
+    <words>fields</words>
+    <words>travel</words>
+    <words>through</words>
+    <words>space</words>
+    <words>as</words>
+    <words>waves</words>
+    <words>moving</words>
+    <words>at</words>
+    <words>the</words>
+    <words>speed</words>
+    <words>of</words>
+    <words>light</words>
+    <entities>Isaac Newton</entities>
+</File Name>
+ Maxwell proposed that light is an undulation in the same medium that is the cause of electric and magnetic phenomena.
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<File Name name="C:\Users\Doyel\Desktop\NLP_test\nlp_data\nlp_data\d10.txt">
+    <sentence> Maxwell proposed that light is an undulation in the same medium that is the cause of electric and magnetic phenomena.</sentence>
+    <words>Maxwell</words>
+    <words>proposed</words>
+    <words>that</words>
+    <words>light</words>
+    <words>is</words>
+    <words>an</words>
+    <words>undulation</words>
+    <words>in</words>
+    <words>the</words>
+    <words>same</words>
+    <words>medium</words>
+    <words>that</words>
+    <words>is</words>
+    <words>the</words>
+    <words>cause</words>
+    <words>of</words>
+    <words>electric</words>
+    <words>and</words>
+    <words>magnetic</words>
+    <words>phenomena</words>
+</File Name>
+ The unification     of light and electrical phenomena led to the prediction of the existence of radio waves.
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<File Name name="C:\Users\Doyel\Desktop\NLP_test\nlp_data\nlp_data\d06.txt">
+    <sentence>A differentiable manifold is a type of manifold that is locally similar enough to a linear space to allow one to do calculus.</sentence>
+    <words>A</words>
+    <words>differentiable</words>
+    <words>manifold</words>
+    <words>is</words>
+    <words>a</words>
+    <words>type</words>
+    <words>of</words>
+    <words>manifold</words>
+    <words>that</words>
+    <words>is</words>
+    <words>locally</words>
+    <words>similar</words>
+    <words>enough</words>
+    <words>to</words>
+    <words>a</words>
+    <words>linear</words>
+    <words>space</words>
+    <words>to</words>
+    <words>allow</words>
+    <words>one</words>
+    <words>to</words>
+    <words>do</words>
+    <words>calculus</words>
+</File Name>
+ Any manifold can be described by a collection of charts, also known as an atlas.
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<File Name name="C:\Users\Doyel\Desktop\NLP_test\nlp_data\nlp_data\d10.txt">
+    <sentence> The unification     of light and electrical phenomena led to the prediction of the existence of radio waves.</sentence>
+    <words>The</words>
+    <words>unification</words>
+    <words>of</words>
+    <words>light</words>
+    <words>and</words>
+    <words>electrical</words>
+    <words>phenomena</words>
+    <words>led</words>
+    <words>to</words>
+    <words>the</words>
+    <words>prediction</words>
+    <words>of</words>
+    <words>the</words>
+    <words>existence</words>
+    <words>of</words>
+    <words>radio</words>
+    <words>waves</words>
+</File Name>
+ His discoveries helped usher in the era of modern physics, laying the foundation for such fields as special relativity and quantum mechanics.
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<File Name name="C:\Users\Doyel\Desktop\NLP_test\nlp_data\nlp_data\d06.txt">
+    <sentence> Any manifold can be described by a collection of charts, also known as an atlas.</sentence>
+    <words>Any</words>
+    <words>manifold</words>
+    <words>can</words>
+    <words>be</words>
+    <words>described</words>
+    <words>by</words>
+    <words>a</words>
+    <words>collection</words>
+    <words>of</words>
+    <words>charts</words>
+    <words>also</words>
+    <words>known</words>
+    <words>as</words>
+    <words>an</words>
+    <words>atlas</words>
+</File Name>
+ One may then apply ideas from calculus while working within the individual charts, since each chart lies within a linear space to which the usual rules of calculus apply.
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<File Name name="C:\Users\Doyel\Desktop\NLP_test\nlp_data\nlp_data\d10.txt">
+    <sentence> His discoveries helped usher in the era of modern physics, laying the foundation for such fields as special relativity and quantum mechanics.</sentence>
+    <words>His</words>
+    <words>discoveries</words>
+    <words>helped</words>
+    <words>usher</words>
+    <words>in</words>
+    <words>the</words>
+    <words>era</words>
+    <words>of</words>
+    <words>modern</words>
+    <words>physics</words>
+    <words>laying</words>
+    <words>the</words>
+    <words>foundation</words>
+    <words>for</words>
+    <words>such</words>
+    <words>fields</words>
+    <words>as</words>
+    <words>special</words>
+    <words>relativity</words>
+    <words>and</words>
+    <words>quantum</words>
+    <words>mechanics</words>
+</File Name>
+ His contributions to the science are considered by many to be of the same magnitude as those of Isaac Newton and Albert Einstein.
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<File Name name="C:\Users\Doyel\Desktop\NLP_test\nlp_data\nlp_data\d01.txt">
+    <sentence> First set in type in Venice in 1482, it is one of the very earliest mathematical works to be printed after the invention of the printing press and was estimated by Carl Benjamin Boyer to be second only to the Bible in the number of editions published, with the number reaching well over one thousand.</sentence>
+    <words>First</words>
+    <words>set</words>
+    <words>in</words>
+    <words>type</words>
+    <words>in</words>
+    <words>Venice</words>
+    <words>in</words>
+    <words>1482</words>
+    <words>it</words>
+    <words>is</words>
+    <words>one</words>
+    <words>of</words>
+    <words>the</words>
+    <words>very</words>
+    <words>earliest</words>
+    <words>mathematical</words>
+    <words>works</words>
+    <words>to</words>
+    <words>be</words>
+    <words>printed</words>
+    <words>after</words>
+    <words>the</words>
+    <words>invention</words>
+    <words>of</words>
+    <words>the</words>
+    <words>printing</words>
+    <words>press</words>
+    <words>and</words>
+    <words>was</words>
+    <words>estimated</words>
+    <words>by</words>
+    <words>Carl</words>
+    <words>Benjamin</words>
+    <words>Boyer</words>
+    <words>to</words>
+    <words>be</words>
+    <words>second</words>
+    <words>only</words>
+    <words>to</words>
+    <words>the</words>
+    <words>Bible</words>
+    <words>in</words>
+    <words>the</words>
+    <words>number</words>
+    <words>of</words>
+    <words>editions</words>
+    <words>published</words>
+    <words>with</words>
+    <words>the</words>
+    <words>number</words>
+    <words>reaching</words>
+    <words>well</words>
+    <words>over</words>
+    <words>one</words>
+    <words>thousand</words>
+    <entities>Venice</entities>
+    <entities>Carl Benjamin Boyer</entities>
+    <entities>Bible</entities>
+</File Name>
+ For centuries, knowledge of at least part of the Elements was required of all students.
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<File Name name="C:\Users\Doyel\Desktop\NLP_test\nlp_data\nlp_data\d06.txt">
+    <sentence> One may then apply ideas from calculus while working within the individual charts, since each chart lies within a linear space to which the usual rules of calculus apply.</sentence>
+    <words>One</words>
+    <words>may</words>
+    <words>then</words>
+    <words>apply</words>
+    <words>ideas</words>
+    <words>from</words>
+    <words>calculus</words>
+    <words>while</words>
+    <words>working</words>
+    <words>within</words>
+    <words>the</words>
+    <words>individual</words>
+    <words>charts</words>
+    <words>since</words>
+    <words>each</words>
+    <words>chart</words>
+    <words>lies</words>
+    <words>within</words>
+    <words>a</words>
+    <words>linear</words>
+    <words>space</words>
+    <words>to</words>
+    <words>which</words>
+    <words>the</words>
+    <words>usual</words>
+    <words>rules</words>
+    <words>of</words>
+    <words>calculus</words>
+    <words>apply</words>
+</File Name>
+ If the charts are suitably compatible (namely, the transition from one chart to another is differentiable), then computations done in one chart are valid in any other differentiable chart.
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<File Name name="C:\Users\Doyel\Desktop\NLP_test\nlp_data\nlp_data\d10.txt">
+    <sentence> His contributions to the science are considered by many to be of the same magnitude as those of Isaac Newton and Albert Einstein.</sentence>
+    <words>His</words>
+    <words>contributions</words>
+    <words>to</words>
+    <words>the</words>
+    <words>science</words>
+    <words>are</words>
+    <words>considered</words>
+    <words>by</words>
+    <words>many</words>
+    <words>to</words>
+    <words>be</words>
+    <words>of</words>
+    <words>the</words>
+    <words>same</words>
+    <words>magnitude</words>
+    <words>as</words>
+    <words>those</words>
+    <words>of</words>
+    <words>Isaac</words>
+    <words>Newton</words>
+    <words>and</words>
+    <words>Albert</words>
+    <words>Einstein</words>
+    <entities>Isaac Newton</entities>
+    <entities>Newton</entities>
+    <entities>Albert Einstein</entities>
+</File Name>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<File Name name="C:\Users\Doyel\Desktop\NLP_test\nlp_data\nlp_data\d01.txt">
+    <sentence> For centuries, knowledge of at least part of the Elements was required of all students.</sentence>
+    <words>For</words>
+    <words>centuries</words>
+    <words>knowledge</words>
+    <words>of</words>
+    <words>at</words>
+    <words>least</words>
+    <words>part</words>
+    <words>of</words>
+    <words>the</words>
+    <words>Elements</words>
+    <words>was</words>
+    <words>required</words>
+    <words>of</words>
+    <words>all</words>
+    <words>students</words>
+    <entities>Elements</entities>
+</File Name>
+ Not until the 20th century, by which time its content was universally taught through other school textbooks, did it cease to be considered something all educated people had read.
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<File Name name="C:\Users\Doyel\Desktop\NLP_test\nlp_data\nlp_data\d06.txt">
+    <sentence> If the charts are suitably compatible (namely, the transition from one chart to another is differentiable), then computations done in one chart are valid in any other differentiable chart.</sentence>
+    <words>If</words>
+    <words>the</words>
+    <words>charts</words>
+    <words>are</words>
+    <words>suitably</words>
+    <words>compatible</words>
+    <words>(namely</words>
+    <words>the</words>
+    <words>transition</words>
+    <words>from</words>
+    <words>one</words>
+    <words>chart</words>
+    <words>to</words>
+    <words>another</words>
+    <words>is</words>
+    <words>differentiable)</words>
+    <words>then</words>
+    <words>computations</words>
+    <words>done</words>
+    <words>in</words>
+    <words>one</words>
+    <words>chart</words>
+    <words>are</words>
+    <words>valid</words>
+    <words>in</words>
+    <words>any</words>
+    <words>other</words>
+    <words>differentiable</words>
+    <words>chart</words>
+</File Name>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<File Name name="C:\Users\Doyel\Desktop\NLP_test\nlp_data\nlp_data\d01.txt">
+    <sentence> Not until the 20th century, by which time its content was universally taught through other school textbooks, did it cease to be considered something all educated people had read.</sentence>
+    <words>Not</words>
+    <words>until</words>
+    <words>the</words>
+    <words>20th</words>
+    <words>century</words>
+    <words>by</words>
+    <words>which</words>
+    <words>time</words>
+    <words>its</words>
+    <words>content</words>
+    <words>was</words>
+    <words>universally</words>
+    <words>taught</words>
+    <words>through</words>
+    <words>other</words>
+    <words>school</words>
+    <words>textbooks</words>
+    <words>did</words>
+    <words>it</words>
+    <words>cease</words>
+    <words>to</words>
+    <words>be</words>
+    <words>considered</words>
+    <words>something</words>
+    <words>all</words>
+    <words>educated</words>
+    <words>people</words>
+    <words>had</words>
+    <words>read</words>
+</File Name>
